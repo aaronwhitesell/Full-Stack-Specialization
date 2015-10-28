@@ -54,6 +54,9 @@ body {
   color: #000000;
 }
 
+.navbar-form-text {
+  color: #fff;
+}
 /* Different color borders that allowed me to visualize the changes.*/
 /*
 .borderMagenta {
