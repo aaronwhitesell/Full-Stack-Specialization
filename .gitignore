@@ -3,6 +3,9 @@
 # Directories
 Web-UI-Frameworks-and-Tools/ConFusion/bower_components/
 AngularJS/ConFusion/bower_components/
+AngularJS/ConFusion/dist/
+AngularJS/ConFusion/.tmp/
+AngularJS/ConFusion/node_modules/
 
 # Windows image file caches
 Thumbs.db
